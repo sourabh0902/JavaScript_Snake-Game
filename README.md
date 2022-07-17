@@ -3,8 +3,8 @@
 -> This game is similar to Nokia Snake Game 
 
 -> How to Play:<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eat the Food (Yellow coloured) to grow the length of the Snake. As the size increases the difficulty increases. IF the Snake touches     the Grid 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;border OR it's own body     then the game will END.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eat the Food (Yellow coloured) to grow the length of the Snake. As the size increases the difficulty increases. IF the Snake touches the
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grid border OR it's own body then the game will END.
 <br><br>
 
 
