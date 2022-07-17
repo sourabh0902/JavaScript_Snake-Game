@@ -5,6 +5,7 @@
 -> How to Play:
     Eat the Food (Yellow coloured) to grow the length of the Snake. As the size increases the difficulty increases. IF the Snake touches the Grid border OR it's own body     then the game will END.
 
+
 /* Features: */
 
 -> The Webpage of this game is fully reponsive amid to any Desktop viewport.
@@ -15,6 +16,7 @@
 
 -> Clicking by ‘OK’ Button game will be restated automatically without need to refresh the page.
 
+
 /* Technologies */
 
 -> HTML
@@ -22,6 +24,7 @@
 -> CSS
 
 -> JavaScript
+
 
 /* Code Editor */
 
