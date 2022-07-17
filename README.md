@@ -10,7 +10,7 @@
 
 /* Features: */
 
--> The Webpage of this game is fully reponsive amid to any Desktop viewport.
+-> The Webpage of this game is fully reponsive amid to any Desktop viewport.<br>
 
 -> The Speed of the snake can be changed according to user's need.
 
