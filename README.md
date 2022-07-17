@@ -1,9 +1,11 @@
 # JavaScript_Snake-Game
 
--> This game is similar to Nokia Snake Game
+-> This game is similar to Nokia Snake Game 
 
--> How to Play:
-    Eat the Food (Yellow coloured) to grow the length of the Snake. As the size increases the difficulty increases. IF the Snake touches the Grid border OR it's own body     then the game will END.
+-> How to Play:<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eat the Food (Yellow coloured) to grow the length of the Snake. As the size increases the difficulty increases. IF the Snake touches     the Grid 
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;border OR it's own body     then the game will END.
+<br><br>
 
 
 /* Features: */
@@ -15,6 +17,7 @@
 -> The length of snake increasing after consuming food can be changed.
 
 -> Clicking by ‘OK’ Button game will be restated automatically without need to refresh the page.
+<br><br>
 
 
 /* Technologies */
@@ -24,8 +27,11 @@
 -> CSS
 
 -> JavaScript
+<br><br>
 
 
 /* Code Editor */
 
 -> VSCode
+
+
