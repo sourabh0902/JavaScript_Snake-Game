@@ -9,7 +9,7 @@ Grid border OR it's own body then the game will END.
 
 /* Features: */
 
--> The Webpage of this game is fully reponsive amid to any Desktop viewport.<br>
+-> The Webpage of this game is fully responsive amid to any Desktop viewport.<br>
 -> The Speed of the snake can be changed according to user's need.<br>
 -> The length of snake increasing after consuming food can be changed.<br>
 -> Clicking by ‘OK’ Button game will be restated automatically without need to refresh the page.
